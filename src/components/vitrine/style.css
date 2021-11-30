@@ -1,0 +1,31 @@
+.BoxForm3 {
+    width: 697px;
+    height: 310px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    position: absolute;
+    left: 23px;
+    top: 415px;
+  }
+
+div {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    border: 0;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+.hr1 {
+    background-color: white;
+    width: 697px;
+    height: 1px;
+}
